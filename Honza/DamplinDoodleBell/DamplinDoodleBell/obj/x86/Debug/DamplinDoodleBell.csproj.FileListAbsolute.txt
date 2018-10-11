@@ -1,0 +1,5 @@
+C:\Programko\Newbie-programy\Honza\DamplinDoodleBell\DamplinDoodleBell\bin\Debug\DamplinDoodleBell.exe
+C:\Programko\Newbie-programy\Honza\DamplinDoodleBell\DamplinDoodleBell\bin\Debug\DamplinDoodleBell.pdb
+C:\Programko\Newbie-programy\Honza\DamplinDoodleBell\DamplinDoodleBell\obj\x86\Debug\DamplinDoodleBell.csprojResolveAssemblyReference.cache
+C:\Programko\Newbie-programy\Honza\DamplinDoodleBell\DamplinDoodleBell\obj\x86\Debug\DamplinDoodleBell.exe
+C:\Programko\Newbie-programy\Honza\DamplinDoodleBell\DamplinDoodleBell\obj\x86\Debug\DamplinDoodleBell.pdb

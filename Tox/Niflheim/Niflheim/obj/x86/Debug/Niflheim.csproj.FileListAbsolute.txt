@@ -1,0 +1,4 @@
+D:\Projects\Newbie-programy\Tox\Niflheim\Niflheim\bin\Debug\Niflheim.exe
+D:\Projects\Newbie-programy\Tox\Niflheim\Niflheim\bin\Debug\Niflheim.pdb
+D:\Projects\Newbie-programy\Tox\Niflheim\Niflheim\obj\x86\Debug\Niflheim.exe
+D:\Projects\Newbie-programy\Tox\Niflheim\Niflheim\obj\x86\Debug\Niflheim.pdb
